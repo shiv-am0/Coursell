@@ -10,5 +10,3 @@ Coursell serves as a dynamic platform for buying and selling courses.
 * __Course Catalog:__ Providing Users with a clear view of all published courses, enhancing accessibility and choice for learners.
 * __User-friendly Purchase:__ Streamlining the learning journey, allowing Users to effortlessly purchase desired courses, promoting a smooth educational experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
